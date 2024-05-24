@@ -1,4 +1,5 @@
 bug in turbo when packages use self-referencing
 
-![image](https://github.com/juliusmarminge/turbo-self-referencing/assets/51714798/6fe6a46b-bb95-47e7-80c5-f776d997ac9e)
-![image](https://github.com/juliusmarminge/turbo-self-referencing/assets/51714798/e630d8c9-5fc2-4a7f-8a76-44dfac5bd987)
+![CleanShot 2024-05-24 at 09 49 45](https://github.com/juliusmarminge/turbo-self-referencing/assets/51714798/66d809a2-050b-4e1a-8dfe-96be8ae4da8c)
+
+![CleanShot 2024-05-24 at 09 49 17](https://github.com/juliusmarminge/turbo-self-referencing/assets/51714798/f9b979ff-1988-41e2-80da-4355e463eb40)
